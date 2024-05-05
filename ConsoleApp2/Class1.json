@@ -1,0 +1,19 @@
+{
+  "Address": "Ulitsa Mira 28B",
+  "Flats": [
+    {
+      "Number": 25,
+      "Square": 37,
+      "NumberOfResidents": 2
+    },
+    {
+      "Number": 17,
+      "Square": 43,
+      "NumberOfResidents": 1
+    },
+    {
+      "Number": 11,
+      "Square": 29,
+      "NumberOfResidents": 4
+    }
+  ]
